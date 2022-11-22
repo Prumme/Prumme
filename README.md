@@ -1,7 +1,7 @@
 # My Knowledge
 
 ## My languages
-<img src="https://img.shields.io/badge/-elixir%20-red"> <img src="https://img.shields.io/badge/-phoenix%20-green">
+<img src="https://img.shields.io/badge/-elixir%20-red"> <img src="https://img.shields.io/badge/-phoenix%20-1D1D1D">
 
 <img src="https://img.shields.io/badge/-HTML%20-red"> <img src="https://img.shields.io/badge/-CSS%20-green"> <img src="https://img.shields.io/badge/-PHP%20-ff69b4">
 
