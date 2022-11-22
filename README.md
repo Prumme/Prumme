@@ -1,7 +1,7 @@
 # My Knowledge
 
 ## My languages
-<span height="15px">[![Website](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Official_Elixir_logo.png/800px-Official_Elixir_logo.png?20220219170441)](https://fr.wikipedia.org/wiki/Elixir_(langage))</span> 
+https://img.shields.io/badge/-elixir%20-red
 
 
 
