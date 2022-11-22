@@ -1,9 +1,9 @@
 # My Knowledge
 
 ## My languages
-<img src="https://img.shields.io/badge/-elixir%20-red"> <img src="https://img.shields.io/badge/-phoenix%20-1D1D1D">
+<img src="https://img.shields.io/badge/-elixir%20-6C4F7A"> <img src="https://img.shields.io/badge/-phoenix%20-F38B68">
 
-<img src="https://img.shields.io/badge/-HTML%20-red"> <img src="https://img.shields.io/badge/-CSS%20-green"> <img src="https://img.shields.io/badge/-PHP%20-ff69b4">
+<img src="https://img.shields.io/badge/-HTML%20-E25A21"> <img src="https://img.shields.io/badge/-CSS%20-6EC5E8"> <img src="https://img.shields.io/badge/-PHP%20-8993C0">
 
 
 
