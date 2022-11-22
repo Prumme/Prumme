@@ -1,7 +1,7 @@
 # My Knowledge
 
 ## My languages
-https://img.shields.io/badge/-elixir%20-red
+<img src="https://img.shields.io/badge/-elixir%20-red">
 
 
 
