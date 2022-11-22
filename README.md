@@ -7,6 +7,8 @@
 
 <img src="https://img.shields.io/badge/-JavaScript%20-F7E017"> <img src="https://img.shields.io/badge/-React.js%20-4AD5FE">
 
+<img src="https://img.shields.io/badge/-Java%20-ED2025">
+
 
 
 
