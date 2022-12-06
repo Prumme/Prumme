@@ -20,3 +20,6 @@
 <a href="[https://github.com/Prumme](https://www.linkedin.com/in/aurelien-prudhomme-4366061a1/)" target="_blank">🌱🌱 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 🌱🌱</a>
 
 
+### Github stats 📊
+![Stats](https://github-readme-stats.vercel.app/api?username=Prumme&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Prumme&show_icons=true&bg_color=45,e6930e,a61127&title_color=fff&text_color=fff&icon_color=fff&layout=compact)
